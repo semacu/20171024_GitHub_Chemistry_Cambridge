@@ -386,6 +386,9 @@ Many thanks for the responses. Comments available [here](IS6_24October_GoogleFor
 
 ## Additional reference materials
 
+Blogs:
+- [Beyond Basic R - Version Control with Git](https://owi.usgs.gov/blog/beyond-basic-git/)
+
 Books:
 - [Happy Git and GitHub for the useR](http://happygitwithr.com/)
 
